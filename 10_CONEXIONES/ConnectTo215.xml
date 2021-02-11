@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsMssqlConnections version="1.0">
+    <mssql name="ConnectTo215" password="gpa" savePassword="true" database="FACTURACION" host="pc-215" estimatedMetadata="true" username="sa" port="" saveUsername="true" service="" sslmode="1"/>
+</qgsMssqlConnections>

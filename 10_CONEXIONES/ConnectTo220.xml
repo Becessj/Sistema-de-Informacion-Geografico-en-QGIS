@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsMssqlConnections version="1.0">
+    <mssql service="" sslmode="1" host="pc-220\sql2014" port="" estimatedMetadata="true" saveUsername="true" password="gpa" database="GEODB_CATASTRO" name="ConnectTo220" username="sa" savePassword="true"/>
+</qgsMssqlConnections>
