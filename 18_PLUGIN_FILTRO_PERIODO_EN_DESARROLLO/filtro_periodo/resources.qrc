@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/filtro_periodo" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
